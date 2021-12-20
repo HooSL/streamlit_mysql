@@ -1,3 +1,7 @@
+#주소 안올리기
+mysql_connection.py
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
